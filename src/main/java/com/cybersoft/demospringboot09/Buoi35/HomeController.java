@@ -1,7 +1,5 @@
-package com.cybersoft.demospringboot09.controller;
+package com.cybersoft.demospringboot09.Buoi35;
 
-import com.cybersoft.demospringboot09.Service.HomeService;
-import com.cybersoft.demospringboot09.entity.CategoryProduct;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;

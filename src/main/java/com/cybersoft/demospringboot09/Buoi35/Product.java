@@ -1,4 +1,4 @@
-package com.cybersoft.demospringboot09.entity;
+package com.cybersoft.demospringboot09.Buoi35;
 
 import java.util.List;
 

@@ -1,7 +1,5 @@
-package com.cybersoft.demospringboot09.Service;
+package com.cybersoft.demospringboot09.Buoi35;
 
-import com.cybersoft.demospringboot09.entity.CategoryProduct;
-import com.cybersoft.demospringboot09.entity.Product;
 import org.springframework.stereotype.Service;
 
 import java.util.List;
